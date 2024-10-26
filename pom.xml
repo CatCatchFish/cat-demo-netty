@@ -12,6 +12,7 @@
         <module>itcat-netty-demo-1-00</module>
         <module>itcat-netty-demo-1-01</module>
         <module>itcat-netty-demo-1-02</module>
+        <module>itcat-netty-demo-1-03</module>
     </modules>
 
     <properties>
