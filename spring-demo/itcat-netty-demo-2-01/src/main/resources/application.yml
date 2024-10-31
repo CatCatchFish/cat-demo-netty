@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: itcat-netty-demo-2-01
+
+netty:
+  host: 127.0.0.1
+  port: 7397
