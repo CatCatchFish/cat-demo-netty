@@ -19,6 +19,7 @@
         <module>itcat-netty-demo-1-06</module>
         <module>itcat-netty-demo-1-07</module>
         <module>spring-demo</module>
+        <module>itcat-netty-demo-2-02</module>
     </modules>
 
     <properties>
