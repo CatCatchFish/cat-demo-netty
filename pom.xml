@@ -20,6 +20,7 @@
         <module>itcat-netty-demo-1-07</module>
         <module>spring-demo</module>
         <module>itcat-netty-demo-2-02</module>
+        <module>itcat-netty-demo-2-03</module>
     </modules>
 
     <properties>
